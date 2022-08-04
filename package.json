@@ -1,0 +1,1 @@
+{"name":"vanillatest","version":"0.0.0","private":true,"dependencies":{"@rollup/plugin-multi-entry":"^4.1.0","@vanilla-extract/css":"^1.7.2","@vanilla-extract/rollup-plugin":"^1.1.0","rollup":"^2.77.2"}}
