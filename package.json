@@ -1,0 +1,15 @@
+{
+    "name": "vanillatest",
+    "version": "0.0.0",
+    "private": true,
+    "script": {
+        "watch": "node esbuild-watch.mjs"
+    },
+    "dependencies": {
+        "@vanilla-extract/css": "^1.7.2",
+        "@vanilla-extract/esbuild-plugin": "^2.1.0",
+        "chokidar": "^3.5.3",
+        "esbuild": "^0.14.53",
+        "globby": "^13.1.2"
+    }
+}
