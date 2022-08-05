@@ -2,8 +2,8 @@
     "name": "vanillatest",
     "version": "0.0.0",
     "private": true,
-    "script": {
-        "watch": "node esbuild-watch.mjs"
+    "scripts": {
+        "css": "node esbuild-watch.mjs"
     },
     "dependencies": {
         "@vanilla-extract/css": "^1.7.2",

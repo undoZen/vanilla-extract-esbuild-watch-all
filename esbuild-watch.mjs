@@ -12,6 +12,7 @@ const builder = await esbuild.build({
   plugins: [vanillaExtractPlugin()],
   outbase: 'src',
   outdir: 'src',
+  format: 'esm',
   minify: false,
   bundle: true,
   sourcemap: false,
