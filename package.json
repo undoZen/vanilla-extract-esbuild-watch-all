@@ -1,15 +1,20 @@
 {
-    "name": "vanillatest",
-    "version": "0.0.0",
-    "private": true,
+    "name": "vecli",
+    "version": "0.1.0",
+    "files": [
+        "esbuild-watch.mjs"
+    ],
     "scripts": {
         "css": "node esbuild-watch.mjs"
+    },
+    "bin": {
+        "vewatch": "esbuild-watch.mjs"
     },
     "dependencies": {
         "@vanilla-extract/css": "^1.7.2",
         "@vanilla-extract/esbuild-plugin": "^2.1.0",
         "chokidar": "^3.5.3",
-        "esbuild": "^0.14.53",
+        "esbuild": "^0.11.0",
         "globby": "^13.1.2"
     }
 }

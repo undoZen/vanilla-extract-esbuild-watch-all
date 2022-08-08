@@ -1,0 +1,10 @@
+{
+    "name": "vewatch-example",
+    "version": "0.1.0",
+    "scripts": {
+        "watch": "vewatch"
+    },
+    "dependencies": {
+        "vecli": "workspace:*"
+    }
+}

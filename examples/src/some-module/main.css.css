@@ -1,0 +1,11 @@
+/* vanilla-extract-css-ns:src/some-module/main.css.ts.vanilla.css?source=Lm1haW5fXzF3cTA2azcwIHsKICAtLWNvbG9yLWJyYW5kX18xd3EwNms3MTogZ3JheTsKICAtLWZvbnQtYm9keV9fMXdxMDZrNzI6IGFyaWFsOwp9Ci5tYWluX18xd3EwNms3MyB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tY29sb3ItYnJhbmRfXzF3cTA2azcxKTsKICBmb250LWZhbWlseTogdmFyKC0tZm9udC1ib2R5X18xd3EwNms3Mik7CiAgY29sb3I6IHdoaXRlOwogIHBhZGRpbmc6IDEwcHg7Cn0= */
+.main__1wq06k70 {
+  --color-brand__1wq06k71: gray;
+  --font-body__1wq06k72: arial;
+}
+.main__1wq06k73 {
+  background-color: var(--color-brand__1wq06k71);
+  font-family: var(--font-body__1wq06k72);
+  color: white;
+  padding: 10px;
+}

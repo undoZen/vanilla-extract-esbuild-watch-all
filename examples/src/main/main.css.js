@@ -1,5 +1,5 @@
 // src/main/main.css.ts
-var exampleStyle = "main__1jlvx3l0";
+var exampleStyle = "main__1anyzdf0";
 export {
   exampleStyle
 };

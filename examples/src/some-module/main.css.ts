@@ -13,5 +13,5 @@ export const exampleStyle = style({
   backgroundColor: vars.color.brand,
   fontFamily: vars.font.body,
   color: 'white',
-  padding: 15
+  padding: 10
 });
