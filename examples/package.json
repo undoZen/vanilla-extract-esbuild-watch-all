@@ -5,6 +5,6 @@
         "watch": "vewatch"
     },
     "dependencies": {
-        "vecli": "workspace:*"
+        "vewatch": "workspace:*"
     }
 }
